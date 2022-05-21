@@ -40,6 +40,8 @@ const isBalanced = string => {
     return balanced && myStack.is_empty();
 }
 
+
+//testing implementation
 let test = [];
 const check = [true, false, false, false, false, false, true, false, true, true, false, true, false, true];
 
